@@ -17,3 +17,9 @@ Python 3.x
 
 ## Author
 Sanjil Mahajani
+
+## Future Updates
+
+I am working to improve this project and add new features. Here are some updates I plan to implement in the future:
+
+- **Creation of Flask Web Application**: The next update to this project will involve transforming the data generation scheduler into a Flask web application. This will allow users to interact with the scheduler through a user-friendly web interface.
